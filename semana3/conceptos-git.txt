@@ -1,0 +1,16 @@
+Pregunta 7: Abre el archivo conceptos-git.txt y escribe una explicación corta de 
+los siguientes conceptos:
+
+Repositorio: espacio donde se guardan los archivos y cambios de un proyecto.
+Commit: registro de cambios realizado en un momento específico.
+Push: acción de enviar los cambios desde el computador o Codespaces hacia GitHub.
+
+Respuesta:
+Repositorio: Es el lugar donde se almacenan todos los archivos de un proyecto 
+y el historial de los cambios realizados.
+
+Commit: Es un registro que guarda los cambios hechos en el proyecto en un 
+momento específico, permitiendo llevar un control de las modificaciones.
+
+Push: Es el comando que envía los cambios guardados en el repositorio local 
+hacia GitHub para que queden disponibles en el repositorio remoto.
