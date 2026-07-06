@@ -1,0 +1,5 @@
+Ejemplo de Json:
+{
+  "tipo": "Basura",
+  "descripcion": "Hay acumulación de basura en la esquina de la calle principal desde hace tres días y requiere recolección."
+}
