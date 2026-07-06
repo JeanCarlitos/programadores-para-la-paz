@@ -1,0 +1,14 @@
+Pregunta 9: Escribe un texto de 8 a 10 líneas respondiendo:
+
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, 
+reportes o alertas de manera organizada?
+
+Respuesta: Las APIs permiten que diferentes aplicaciones compartan información de forma rápida y 
+organizada. En una comunidad, pueden servir para enviar reportes de problemas como 
+baches, basura o fallas en el alumbrado. También pueden distribuir alertas importantes a 
+todos los usuarios en tiempo real. Gracias a las APIs, la información llega al sistema sin 
+necesidad de capturarla manualmente varias veces. Esto reduce errores y mejora la 
+comunicación entre ciudadanos y autoridades. Además, facilitan el seguimiento de cada 
+reporte hasta que sea resuelto. Las comunidades pueden responder con mayor rapidez a 
+las necesidades de los vecinos. En conjunto, las APIs ayudan a mantener una comunicación 
+más eficiente, ordenada y útil para todos.
