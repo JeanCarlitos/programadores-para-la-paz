@@ -1,0 +1,15 @@
+Escribe un texto de 8 a 10 líneas respondiendo:
+
+¿Por qué es importante que las comunidades puedan registrar y consultar 
+reportes o incidencias en una plataforma tecnológica?
+
+Respuesta:Las comunidades se benefician de una plataforma tecnológica para registrar y consultar 
+reportes porque facilita la comunicación entre los ciudadanos y las autoridades. Al 
+registrar una incidencia, el problema queda documentado y puede recibir seguimiento. 
+Esto ayuda a que las autoridades identifiquen las necesidades más urgentes y organicen 
+mejor sus recursos. Además, la consulta de reportes evita duplicar solicitudes y mantiene 
+informada a la comunidad sobre el estado de cada caso. También promueve la 
+transparencia, ya que las personas pueden verificar si sus reportes están siendo atendidos. 
+Otra ventaja es que permite recopilar información útil para prevenir problemas futuros. En 
+conjunto, estas herramientas mejoran la participación ciudadana y contribuyen a construir 
+comunidades más seguras y organizadas.
