@@ -1,0 +1,9 @@
+Escribe 5 prácticas de seguridad que deberían aplicarse en una plataforma 
+digital comunitaria
+
+Respuesta: 
+* Control estricto de accesos y roles
+* Autenticación Multifactor (MFA)
+* Cifrado de datos y conexiones
+* Copias de seguridad periódicas
+* Educación y políticas de uso

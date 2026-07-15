@@ -1,0 +1,3 @@
+* usar contraseñas robustas y únicas por cada cuenta, 
+* activar la autenticación de dos factores (2FA) en tus aplicaciones y 
+* mantener todo tu software y aplicaciones siempre actualizados.

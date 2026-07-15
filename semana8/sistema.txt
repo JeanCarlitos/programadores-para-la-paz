@@ -1,0 +1,22 @@
+1: Qué información muestra cada comando.
+
+Respuesta: 
+uname -a
+   - Muestra información detallada del sistema operativo, incluyendo:
+     - Nombre del sistema (Linux).
+     - Nombre del equipo (hostname).
+     - Versión del kernel.
+     - Fecha de compilación del kernel.
+     - Arquitectura del procesador (x86_64, arm64, etc.).
+
+whoami
+   - Muestra el nombre del usuario que está ejecutando la sesión actual.
+
+2: Por qué es útil conocer información del sistema cuando se administra 
+un servidor.
+
+Respuesta:
+Conocer esta información permite identificar el sistema operativo y su versión, 
+verificar la arquitectura del servidor, confirmar con qué usuario se están ejecutando 
+los comandos y facilitar tareas de administración, configuración, solución de problemas, 
+instalación de software y diagnóstico del sistema.
