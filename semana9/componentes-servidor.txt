@@ -1,0 +1,26 @@
+Pregunta 8: Explica brevemente qué función cumple cada uno. 
+Cada explicación debe tener 2 o 3 líneas:
+
+1: Sistema operativo
+2: Node.js
+3: Aplicación server.js
+4: Puerto
+5: Logs
+
+Respuesta:
+1: Es el software que administra el hardware y los recursos de la computadora. También 
+permite ejecutar programas como Node.js y gestionar archivos, procesos y usuarios.
+
+2:Es un entorno de ejecución que permite ejecutar código JavaScript fuera del 
+navegador. Se utiliza para crear servidores, aplicaciones web y APIs.
+
+3:Es el archivo que contiene el código del servidor. Define las rutas, procesa las 
+solicitudes de los usuarios y envía las respuestas correspondientes.
+
+4:Es el número que identifica el punto de acceso por el que una aplicación recibe 
+conexiones. En este caso, el servidor escucha en el puerto 3000 para atender las 
+solicitudes.
+
+5:Son los mensajes que el servidor muestra en la terminal durante su ejecución. Sirven 
+para verificar que el servidor funciona correctamente y para detectar errores o 
+problemas.

@@ -1,0 +1,12 @@
+Pregunta 7: 
+1: Qué ocurre cuando ejecutas node server.js.
+2: Qué mensaje aparece en la terminal.
+3: Qué sucede cuando visitas la ruta /estado.
+
+Respuesta:
+1: Servidor activo y funcionando
+2:Servidor ejecutándose en puerto 3000
+3:{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
