@@ -1,0 +1,9 @@
+Como integrante de una veeduría ciudadana, quiero registrar y priorizar las denuncias en un backlog
+
+Como coordinador del equipo, quiero planificar las actividades en iteraciones semanales
+
+Como ciudadano que participa en la comunidad, quiero recibir notificaciones automáticas por Telegram sobre reuniones, avances y resultados
+
+Como miembro del equipo de veeduría, quiero automatizar el envío de recordatorios sobre tareas pendientes
+
+Como administrador de la plataforma, quiero que toda automatización sea supervisada y validada antes de difundir información

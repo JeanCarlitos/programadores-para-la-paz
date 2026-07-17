@@ -1,0 +1,12 @@
+presenta 9: Debe responder estas preguntas:
+
+¿Qué evento activa el flujo?
+¿Qué mensaje se enviaría a Telegram?
+¿Qué información no debería enviarse por seguridad?
+
+* evento: Nuevo reporte ciudadano registrado en el sistema.
+* Accion: n8n detecta el nuevo reporte y envía una notificación al grupo de Telegram.
+* mensaje: "Se ha recibido un nuevo reporte ciudadano. Por favor, revisarlo y asignar un 
+responsable para su seguimiento."
+* Información que no debe enviarse por seguridad: nombres completos, números de identificación, 
+direcciones, teléfonos, correos electrónicos, contraseñas y cualquier otro dato personal o sensible.

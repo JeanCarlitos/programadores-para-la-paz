@@ -1,0 +1,21 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+
+*Implementar el registro y priorización de denuncias ciudadanas.
+
+*Configurar las notificaciones automáticas por Telegram para informar 
+sobre el estado de los casos.
+
+2. ¿Por qué son las más importantes?
+Porque permiten organizar el trabajo desde el inicio, dar seguimiento a las denuncias 
+y mantener una comunicación rápida y transparente con los integrantes de la comunidad.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+Una tarea está terminada cuando cumple todos los requisitos definidos, ha sido revisada 
+y probada, funciona correctamente y puede ser utilizada por los usuarios sin presentar 
+errores.
+
+4. Escribe una definición simple de terminado con al menos 3 criterios. 
+* Funciona correctamente según lo solicitado.
+*  Fue probada y no presenta errores.
+* Quedó registrada en Git con su respectivo commit.
+* Fue revisada y aprobada por el equipo o responsable.
